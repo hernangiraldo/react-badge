@@ -2,6 +2,9 @@
   width: 100%;
   padding: 0.5rem 0;
   background-color: #1C3643;
+  position: sticky;
+  top: 0;
+  z-index: 1;
 }
 
 .Navbar__brand {
